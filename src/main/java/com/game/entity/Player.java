@@ -5,6 +5,7 @@ import java.util.Date;
 
 @Entity
 @Table(name = "player")
+//testPush
 public class Player {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
